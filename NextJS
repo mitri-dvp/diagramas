@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T03:26:32.506Z" agent="5.0 (Windows)" etag="gKwDw2ZLm31f9qnz1una" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T03:43:08.369Z" agent="5.0 (Windows)" etag="nST-VciSqafSEqpyUKl4" version="14.0.1" type="github">
   <diagram id="lAtf3I_8cycjZYKOyscf" name="Page-1">
     <mxGraphModel dx="868" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
             <mxPoint x="390" y="510" as="sourcePoint" />
             <mxPoint x="440" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-40" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;Deployment&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-41" value="&lt;div&gt;Vercel&lt;/div&gt;&lt;div&gt;Amazon S3&lt;/div&gt;&lt;div&gt;Netlify&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="350" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
