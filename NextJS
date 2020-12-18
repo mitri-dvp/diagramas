@@ -1,34 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T02:49:19.813Z" agent="5.0 (Windows)" etag="yUTmvWO5GeDVawaYiMJX" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T03:19:53.510Z" agent="5.0 (Windows)" etag="ep7cnDmEWoENcUpbCLbW" version="14.0.1" type="github">
   <diagram id="lAtf3I_8cycjZYKOyscf" name="Page-1">
     <mxGraphModel dx="868" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-29" value="Only Next JS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="480" height="240" as="geometry" />
+          <mxGeometry x="220" y="120" width="480" height="240" as="geometry" />
         </mxCell>
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-11" value="&lt;div&gt;Next JS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="40" height="80" as="geometry" />
+          <mxGeometry x="260" y="200" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-1" value="Next JS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="390" y="50" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-8" value="&lt;div&gt;Front End&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="130" width="140" height="60" as="geometry" />
+          <mxGeometry x="530" y="170" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-9" value="Back End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="220" width="140" height="60" as="geometry" />
+          <mxGeometry x="530" y="260" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-18" value="Serverless Functions (API Routes)" style="endArrow=classic;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ3Cbifq478zKvdO4FzJ-11" target="pJ3Cbifq478zKvdO4FzJ-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="290" as="sourcePoint" />
-            <mxPoint x="420" y="290" as="targetPoint" />
+            <mxPoint x="500" y="330" as="sourcePoint" />
+            <mxPoint x="600" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-22" value="Static Site Generation | SSR" style="endArrow=classic;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ3Cbifq478zKvdO4FzJ-11" target="pJ3Cbifq478zKvdO4FzJ-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="290" as="sourcePoint" />
-            <mxPoint x="420" y="290" as="targetPoint" />
+            <mxPoint x="500" y="330" as="sourcePoint" />
+            <mxPoint x="600" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-30" value="Next JS &amp;amp; Strapi CMS&lt;br&gt;(Ecommerce Project)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="480" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-31" value="&lt;div&gt;Next JS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-32" value="&lt;div&gt;Front End&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-33" value="Back End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-35" value="Static Site Generation | SSR" style="endArrow=classic;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ3Cbifq478zKvdO4FzJ-31" target="pJ3Cbifq478zKvdO4FzJ-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="610" as="sourcePoint" />
+            <mxPoint x="600" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-36" value="Strapi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-37" value="" style="endArrow=classic;html=1;fontSize=12;" edge="1" parent="1" source="pJ3Cbifq478zKvdO4FzJ-36" target="pJ3Cbifq478zKvdO4FzJ-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="510" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
