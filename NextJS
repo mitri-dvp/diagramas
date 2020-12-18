@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T02:44:29.965Z" agent="5.0 (Windows)" etag="scMl_8QN_vhKXVWKnNqh" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T02:45:53.787Z" agent="5.0 (Windows)" etag="KYn9EA0lbyQaeEzfTTNu" version="14.0.1" type="github">
   <diagram id="lAtf3I_8cycjZYKOyscf" name="Page-1">
     <mxGraphModel dx="868" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,16 @@
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-9" value="Back End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="390" y="220" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pJ3Cbifq478zKvdO4FzJ-17" value="Static Site Generator | SSR" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="pJ3Cbifq478zKvdO4FzJ-11" target="pJ3Cbifq478zKvdO4FzJ-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-11" value="&lt;div&gt;Next JS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="40" height="80" as="geometry" />
+          <mxGeometry x="120" y="160" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pJ3Cbifq478zKvdO4FzJ-18" value="Serverless Functions (API Routes)" style="endArrow=classic;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ3Cbifq478zKvdO4FzJ-11" target="pJ3Cbifq478zKvdO4FzJ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="290" as="sourcePoint" />
+            <mxPoint x="460" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pJ3Cbifq478zKvdO4FzJ-22" value="Static Site Generation | SSR" style="endArrow=classic;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ3Cbifq478zKvdO4FzJ-11" target="pJ3Cbifq478zKvdO4FzJ-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="290" as="sourcePoint" />
             <mxPoint x="460" y="290" as="targetPoint" />
