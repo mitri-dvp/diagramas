@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T20:48:28.520Z" agent="5.0 (Windows)" etag="h3OZug-SVo7zno4527eX" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T21:02:13.884Z" agent="5.0 (Windows)" etag="i9Hx1T0eFnE1SZHsdWyt" version="14.4.8" type="github">
   <diagram id="8uVILZufl5NRQnor_rn4" name="Page-1">
     <mxGraphModel dx="868" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,19 +8,19 @@
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-2" value="&lt;div&gt;PC&lt;/div&gt;&lt;div&gt;1.1.1.1&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-3" value="&lt;div&gt;PC&lt;/div&gt;&lt;div&gt;1.1.1.2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-4" value="&lt;div&gt;PC&lt;/div&gt;&lt;div&gt;1.1.1.3&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-5" value="&lt;div&gt;Impresora&lt;/div&gt;&lt;div&gt;1.1.1.4&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-6" value="&lt;div&gt;Impresora&lt;/div&gt;&lt;div&gt;1.1.1.5&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-7" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="1" source="ZLX3V6EtmvMq8rjo3t9U-2" target="ZLX3V6EtmvMq8rjo3t9U-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
