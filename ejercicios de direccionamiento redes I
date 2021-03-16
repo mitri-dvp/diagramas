@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T22:12:05.807Z" agent="5.0 (Windows)" etag="iFsoCcA8h7DtiVxY2K5d" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T22:18:28.055Z" agent="5.0 (Windows)" etag="DTr_3TYv13EJ60s8bpO_" version="14.4.8" type="github">
   <diagram id="8uVILZufl5NRQnor_rn4" name="Page-1">
     <mxGraphModel dx="868" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,58 +191,58 @@
           <mxGeometry x="80" y="800" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-66" value="Red de Organizacion&lt;br style=&quot;font-size: 12px&quot;&gt;172.10.0.0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="530" y="830" width="140" height="50" as="geometry" />
+          <mxGeometry x="530" y="840" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-71" value="RED 1&lt;br&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.1.0&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="110" y="920" width="100" height="50" as="geometry" />
+          <mxGeometry x="135" y="920" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-72" value="&lt;div style=&quot;font-size: 12px&quot;&gt;PC1-3&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.1.1-3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="55.5" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="80" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-73" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Servidor de Impresión&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.1.4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="160.5" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-76" value="RED 2&lt;br&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.2.0&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="319" y="920" width="100" height="50" as="geometry" />
+          <mxGeometry x="365" y="920" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-77" value="RED 3&lt;br&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.3.0&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="770" y="920" width="100" height="50" as="geometry" />
+          <mxGeometry x="545" y="920" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-78" value="&lt;div style=&quot;font-size: 12px&quot;&gt;PC4-6&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.2.1-3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="310" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-79" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Servidor&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.2.100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="420" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-80" value="VLAN 1&lt;br&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="550" y="920" width="100" height="50" as="geometry" />
+          <mxGeometry x="770" y="920" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-81" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Servidor&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.2.100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="759" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-82" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Router ISP2&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.4.100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="872" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-83" value="&lt;div style=&quot;font-size: 12px&quot;&gt;PC7-9&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.3.1-3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="533" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-84" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Impresora1-2&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.3.4-5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="646" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-85" value="&lt;div&gt;VLAN 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1036" y="920" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-86" value="&lt;div style=&quot;font-size: 12px&quot;&gt;PC1&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.1.1&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="931" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="985" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-89" value="&lt;div&gt;Servidor&lt;/div&gt;&lt;div&gt;172.10.2.100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="1325" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-90" value="&lt;div style=&quot;font-size: 12px&quot;&gt;PC2&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.2.1&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="1099" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZLX3V6EtmvMq8rjo3t9U-91" value="&lt;div style=&quot;font-size: 12px&quot;&gt;PC3&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;172.10.3.1&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1140.5" y="1000" width="100" height="50" as="geometry" />
+          <mxGeometry x="1212" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
